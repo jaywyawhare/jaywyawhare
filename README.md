@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arinjay</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi, I'm Arinjay</h1>
+<h3 align="center">I am <b>NOOB</b></h3>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaywyawhare&no-bg=false&row=1" alt="jaywyawhare" /></a> </p>
 
