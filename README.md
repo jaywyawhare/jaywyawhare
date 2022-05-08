@@ -16,18 +16,17 @@
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img text-align="center" src="https://github-readme-stats.vercel.app/api?username=jaywyawhare&show_icons=true&locale=en" alt="jaywyawhare"  />
+<p align="center"><img text-align="center" src="https://github-readme-stats.vercel.app/api?username=jaywyawhare&show_icons=true&locale=en" alt="jaywyawhare"  /></p>
 
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywyawhare&" alt="jaywyawhare" />
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywyawhare&" alt="jaywyawhare" /></p>
 
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywyawhare&show_icons=true&locale=en&layout=compact" alt="jaywyawhare" />
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywyawhare&show_icons=true&locale=en&layout=compact" alt="jaywyawhare" /></p>
 
 <br>
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaywyawhare&label=Profile%20views&color=0e75b6&style=flat" alt="jaywyawhare" /> </p>
 
