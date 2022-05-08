@@ -21,11 +21,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaywyawhare&" alt="jaywyawhare" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywyawhare&" alt="jaywyawhare" />
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywyawhare&show_icons=true&locale=en&layout=compact" alt="jaywyawhare" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywyawhare&show_icons=true&locale=en&layout=compact" alt="jaywyawhare" />
 
 </div>
 
