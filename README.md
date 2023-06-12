@@ -32,3 +32,10 @@
 <h3 align="center">Random Meme</h3>
 <p align="center"> <a href="https://meme-api-production.up.railway.app/meme?timestamp=<%= new Date().getTime() %>" target="'_blank" rel="noreferrer"><img src="https://meme-api-production.up.railway.app/meme?timestamp=%3C%=new%20Date().getTime()%20%%3E" width="512px"/> </a> </p>
 
+<br>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
