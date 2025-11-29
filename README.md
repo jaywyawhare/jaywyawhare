@@ -17,10 +17,3 @@
 <p align="center">
   Python · PyTorch · Tensorflow · FastAPI · Flask · Django · JavaScript · TypeScript · Node.js · Postgres · AWS · Git
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaywyawhare&show_icons=true&hide_title=true&hide_rank=true&hide=issues" alt="GitHub stats" />
-</p>
-
-
-<br>
