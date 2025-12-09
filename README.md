@@ -15,5 +15,5 @@
 
 <h4 align="center">Tech I use</h4>
 <p align="center">
-  Python · PyTorch · Tensorflow · FastAPI · Flask · Django · JavaScript · TypeScript · Node.js · Postgres · AWS · Git
+  Python · PyTorch · Tensorflow · FastAPI · Flask · Django · Node.js · Postgres · AWS · Git
 </p>
