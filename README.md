@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arinjay-wyawhare">LinkedIn</a> |
-  <a href="https://jaywyawhare-github-io.vercel.app/">Website</a> |
+  <a href="https://jaywyawhare.vercel.app/">Website</a> |
   <a href="mailto:awyawhare@gmail.com">awyawhare@gmail.com</a> |
   <a href="https://github.com/jaywyawhare">GitHub</a> |
   <a href="./resume.md">Resume</a>
